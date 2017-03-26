@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">&lt;-&#160;&#160;&#160;Temperature Converter</string>
+    <string name="DescriptionHeader" translatable="false">Simple Temperature Converter. Convert beetween Celsius, Fahrenheit, Kelvin and Rankine.</string>
+</resources>
